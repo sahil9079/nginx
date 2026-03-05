@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1772651881,,"wq"
+|2,0,1772697207,,"wq"
 
 # Search String History (newest to oldest):
 ? @$
@@ -30,38 +30,50 @@ $
 # Registers:
 
 # File marks:
-'0  1  0  ~/.gitignore
-|4,48,1,0,1772651881,"~/.gitignore"
-'1  7  79  ~/node2
-|4,49,7,79,1772647795,"~/node2"
-'2  3  19  ~/default.conf
-|4,50,3,19,1772647553,"~/default.conf"
-'3  4  12  ~/node2/server2.js
-|4,51,4,12,1772647467,"~/node2/server2.js"
-'4  4  13  ~/node1/server1.js
-|4,52,4,13,1772647414,"~/node1/server1.js"
-'5  3  36  ~/node1/server1.js
-|4,53,3,36,1772647041,"~/node1/server1.js"
-'6  3  36  ~/node1/server1.js
-|4,54,3,36,1772647041,"~/node1/server1.js"
-'7  4  13  ~/node2/server2.js
-|4,55,4,13,1772646396,"~/node2/server2.js"
-'8  10  36  ~/default.conf
-|4,56,10,36,1772646206,"~/default.conf"
-'9  10  36  ~/default.conf
-|4,57,10,36,1772646206,"~/default.conf"
+'0  1  20  ~/default.conf
+|4,48,1,20,1772697207,"~/default.conf"
+'1  1  0  ~/.gitignore
+|4,49,1,0,1772651881,"~/.gitignore"
+'2  7  79  ~/node2
+|4,50,7,79,1772647795,"~/node2"
+'3  3  19  ~/default.conf
+|4,51,3,19,1772647553,"~/default.conf"
+'4  3  19  ~/default.conf
+|4,52,3,19,1772647553,"~/default.conf"
+'5  4  12  ~/node2/server2.js
+|4,53,4,12,1772647467,"~/node2/server2.js"
+'6  4  13  ~/node1/server1.js
+|4,54,4,13,1772647414,"~/node1/server1.js"
+'7  3  36  ~/node1/server1.js
+|4,55,3,36,1772647041,"~/node1/server1.js"
+'8  3  36  ~/node1/server1.js
+|4,56,3,36,1772647041,"~/node1/server1.js"
+'9  4  13  ~/node2/server2.js
+|4,57,4,13,1772646396,"~/node2/server2.js"
 
 # Jumplist (newest first):
+-'  1  20  ~/default.conf
+|4,39,1,20,1772697207,"~/default.conf"
+-'  3  19  ~/default.conf
+|4,39,3,19,1772696813,"~/default.conf"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1772651881,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1772651881,"~/.gitignore"
 -'  7  79  ~/node2
 |4,39,7,79,1772647795,"~/node2"
 -'  7  79  ~/node2
 |4,39,7,79,1772647795,"~/node2"
+-'  7  79  ~/node2
+|4,39,7,79,1772647795,"~/node2"
+-'  7  79  ~/node2
+|4,39,7,79,1772647795,"~/node2"
 -'  3  19  ~/default.conf
 |4,39,3,19,1772647553,"~/default.conf"
 -'  3  19  ~/default.conf
 |4,39,3,19,1772647553,"~/default.conf"
+-'  13  36  ~/default.conf
+|4,39,13,36,1772647493,"~/default.conf"
 -'  10  36  ~/default.conf
 |4,39,10,36,1772647493,"~/default.conf"
 -'  10  36  ~/default.conf
@@ -74,6 +86,30 @@ $
 |4,39,4,12,1772647467,"~/node2/server2.js"
 -'  4  12  ~/node2/server2.js
 |4,39,4,12,1772647467,"~/node2/server2.js"
+-'  4  12  ~/node2/server2.js
+|4,39,4,12,1772647467,"~/node2/server2.js"
+-'  4  12  ~/node2/server2.js
+|4,39,4,12,1772647467,"~/node2/server2.js"
+-'  4  12  ~/node2/server2.js
+|4,39,4,12,1772647467,"~/node2/server2.js"
+-'  4  12  ~/node2/server2.js
+|4,39,4,12,1772647467,"~/node2/server2.js"
+-'  4  13  ~/node1/server1.js
+|4,39,4,13,1772647414,"~/node1/server1.js"
+-'  4  13  ~/node1/server1.js
+|4,39,4,13,1772647414,"~/node1/server1.js"
+-'  4  13  ~/node1/server1.js
+|4,39,4,13,1772647414,"~/node1/server1.js"
+-'  4  13  ~/node1/server1.js
+|4,39,4,13,1772647414,"~/node1/server1.js"
+-'  4  13  ~/node1/server1.js
+|4,39,4,13,1772647414,"~/node1/server1.js"
+-'  4  13  ~/node1/server1.js
+|4,39,4,13,1772647414,"~/node1/server1.js"
+-'  4  13  ~/node1/server1.js
+|4,39,4,13,1772647414,"~/node1/server1.js"
+-'  4  13  ~/node1/server1.js
+|4,39,4,13,1772647414,"~/node1/server1.js"
 -'  4  13  ~/node1/server1.js
 |4,39,4,13,1772647414,"~/node1/server1.js"
 -'  4  13  ~/node1/server1.js
@@ -106,6 +142,38 @@ $
 |4,39,3,36,1772647394,"~/node1/server1.js"
 -'  3  36  ~/node1/server1.js
 |4,39,3,36,1772647394,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647394,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647394,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647394,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647394,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647394,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647394,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647394,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647394,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647041,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647041,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647041,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647041,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647041,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647041,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647041,"~/node1/server1.js"
+-'  3  36  ~/node1/server1.js
+|4,39,3,36,1772647041,"~/node1/server1.js"
 -'  3  36  ~/node1/server1.js
 |4,39,3,36,1772647041,"~/node1/server1.js"
 -'  3  36  ~/node1/server1.js
@@ -154,106 +222,58 @@ $
 |4,39,1,0,1772646938,"~/node1/server1.js"
 -'  1  0  ~/node1/server1.js
 |4,39,1,0,1772646938,"~/node1/server1.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  4  13  ~/node2/server2.js
-|4,39,4,13,1772646396,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2/server2.js
-|4,39,1,0,1772646369,"~/node2/server2.js"
--'  1  0  ~/node2
-|4,39,1,0,1772646340,"~/node2"
--'  1  0  ~/node2
-|4,39,1,0,1772646340,"~/node2"
--'  10  36  ~/default.conf
-|4,39,10,36,1772646206,"~/default.conf"
--'  10  36  ~/default.conf
-|4,39,10,36,1772646206,"~/default.conf"
--'  10  36  ~/default.conf
-|4,39,10,36,1772646206,"~/default.conf"
--'  10  36  ~/default.conf
-|4,39,10,36,1772646206,"~/default.conf"
--'  10  36  ~/default.conf
-|4,39,10,36,1772646206,"~/default.conf"
--'  10  36  ~/default.conf
-|4,39,10,36,1772646206,"~/default.conf"
--'  10  36  ~/default.conf
-|4,39,10,36,1772646206,"~/default.conf"
--'  10  36  ~/default.conf
-|4,39,10,36,1772646206,"~/default.conf"
--'  10  36  ~/default.conf
-|4,39,10,36,1772646206,"~/default.conf"
--'  10  36  ~/default.conf
-|4,39,10,36,1772646206,"~/default.conf"
--'  10  36  ~/default.conf
-|4,39,10,36,1772646206,"~/default.conf"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
+-'  1  0  ~/node1/server1.js
+|4,39,1,0,1772646938,"~/node1/server1.js"
 
 # History of marks within files (newest to oldest):
+
+> ~/default.conf
+	*	1772697204	0
+	"	1	20
+	^	1	21
+	.	21	40
+	+	17	0
+	+	5	0
+	+	2	20
+	+	3	23
+	+	2	24
+	+	3	24
+	+	13	36
+	+	2	19
+	+	3	19
+	+	7	19
+	+	10	59
+	+	19	8
+	+	20	14
+	+	21	40
 
 > ~/.gitignore
 	*	1772651877	0
@@ -268,21 +288,6 @@ $
 	+	3	1
 	+	2	1
 	+	1	1
-
-> ~/default.conf
-	*	1772647546	0
-	"	3	19
-	^	3	20
-	.	3	19
-	+	14	0
-	+	5	0
-	+	2	20
-	+	3	23
-	+	2	24
-	+	3	24
-	+	10	36
-	+	2	19
-	+	3	19
 
 > ~/node2/server2.js
 	*	1772647462	0
